@@ -32,7 +32,7 @@ To leverage the insights gained from these algorithms to boost sales, enhance cu
 Both Apriori and FP-Growth algorithms produce identical results when using the same parameters, demonstrating their ability to consistently identify antecedents and consequents. However, their efficiency and scalability differ significantly. The FP-Growth algorithm is notably faster, taking 1.78 seconds compared to Apriori’s 3.12 seconds, due to its more efficient FP-tree structure that reduces database scans and complexity. In contrast, Apriori’s reliance on candidate generation and multiple scans leads to slower performance and scalability issues. Thus, while both algorithms are effective in identifying itemsets, FP-Growth is preferable for handling larger datasets and achieving faster processing times.
 
 
-#### References:
+## References:
 
 Chen, Y.-L., Tang, K., Shen, R.-J. and Hu, Y.-H. (2005). Market basket analysis in a multiple store environment. Decision Support Systems, 40(2), pp.339–354. doi:https://doi.org/10.1016/j.dss.2004.04.009.
 
