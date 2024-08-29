@@ -33,6 +33,7 @@ Both Apriori and FP-Growth algorithms produce identical results when using the s
 
 
 #### References:
+
 Chen, Y.-L., Tang, K., Shen, R.-J. and Hu, Y.-H. (2005). Market basket analysis in a multiple store environment. Decision Support Systems, 40(2), pp.339–354. doi:https://doi.org/10.1016/j.dss.2004.04.009.
 
 Han, J., Pei, J. and Yin, Y. (2000). Mining frequent patterns without candidate generation. ACM SIGMOD Record, 29(2), pp.1–12. doi:https://doi.org/10.1145/335191.335372.
