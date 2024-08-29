@@ -7,7 +7,7 @@ This project will focus on two algorithms: Apriori and Frequent Pattern Growth (
 To leverage the insights gained from these algorithms to boost sales, enhance customer experience, and optimize operational efficiencies in the online electronic store.
 
 ## Dataset
-- The <a href="https://www.kaggle.com/datasets/farjanakabirsamanta/analytics-case-studyecommerce" target="_blank">dataset</a> are from the Kaggle repository and contains e-commerce data from an online electronic store. 
+The <a href="https://www.kaggle.com/datasets/farjanakabirsamanta/analytics-case-studyecommerce" target="_blank">dataset</a> are from the Kaggle repository and contains e-commerce data from an online electronic store. 
 
 ## Project execution
 
